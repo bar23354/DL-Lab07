@@ -1,0 +1,20 @@
+tipo,analogía,esperada,SGNS top-1,SGNS rango,SGNS cos,SGNS sin excluir,gensim top-1,gensim rango,gensim cos,gensim sin excluir,GloVe top-1,GloVe rango,GloVe cos,GloVe sin excluir
+género,man : woman :: king : ?,queen,queen,1,0.7406017780303955,king,queen,1,0.6822775602340698,king,queen,1,0.7698540687561035,king
+género,boy : girl :: brother : ?,sister,daughter,11,0.6701143980026245,brother,cousin,6,0.6934245228767395,brother,daughter,6,0.8404760360717773,brother
+género,father : mother :: son : ?,daughter,daughter,1,0.8929257988929749,daughter,daughter,1,0.8891724348068237,daughter,daughter,1,0.952526330947876,daughter
+género,he : she :: his : ?,her,her,1,0.9541387557983398,her,her,1,0.9161056280136108,her,her,1,0.985338568687439,her
+país-capital,france : paris :: italy : ?,rome,vienna,5,0.6891651153564453,paris,vienna,15,0.6692842245101929,paris,rome,1,0.8189546465873718,rome
+país-capital,japan : tokyo :: germany : ?,berlin,berlin,1,0.8031601309776306,berlin,berlin,1,0.7699179649353027,berlin,frankfurt,2,0.819084644317627,frankfurt
+país-capital,spain : madrid :: russia : ?,moscow,moscow,1,0.7205832004547119,moscow,moscow,1,0.7545666098594666,moscow,moscow,1,0.8552455306053162,moscow
+país-gentilicio,france : french :: germany : ?,german,german,1,0.8849132061004639,german,german,1,0.8445566892623901,german,german,1,0.9596728086471558,german
+país-gentilicio,italy : italian :: japan : ?,japanese,japanese,1,0.8427262306213379,japanese,japanese,1,0.8336176872253418,japanese,japanese,1,0.9276975393295288,japanese
+país-gentilicio,china : chinese :: spain : ?,spanish,spanish,1,0.7977161407470703,spanish,spanish,1,0.8118719458580017,spanish,spanish,1,0.8900151252746582,spanish
+comparativo/superlativo,good : better :: bad : ?,worse,worse,1,0.7046496868133545,better,bigger,2,0.6953434944152832,better,worse,1,0.8442932367324829,bad
+comparativo/superlativo,big : bigger :: small : ?,smaller,larger,2,0.6320440173149109,larger,smaller,1,0.7233127951622009,smaller,larger,2,0.8694050312042236,larger
+comparativo/superlativo,fast : fastest :: strong : ?,strongest,strongest,1,0.5905914902687073,strong,strongest,1,0.6351181268692017,strong,strongest,1,0.7035325765609741,strongest
+tiempo verbal,walk : walked :: go : ?,went,went,1,0.7207485437393188,walked,going,3,0.6975525617599487,going,went,1,0.8367829322814941,went
+tiempo verbal,run : ran :: see : ?,saw,put,25,0.5160739421844482,see,exclaimed,43,0.5114498734474182,see,saw,1,0.7280813455581665,see
+tiempo verbal,eat : eating :: swim : ?,swimming,swimming,1,0.7411439418792725,swim,swimming,1,0.726130485534668,swim,swimming,1,0.8168068528175354,swim
+plural,car : cars :: child : ?,children,children,1,0.749284565448761,child,children,1,0.6960358619689941,child,children,1,0.8238247632980347,child
+plural,mouse : mice :: man : ?,men,woman,16,0.4756373167037964,man,briggs,192,0.4495652914047241,man,men,1,0.6763224601745605,man
+plural,city : cities :: country : ?,countries,countries,1,0.7353991270065308,country,countries,1,0.7218366861343384,country,countries,1,0.8082405924797058,country

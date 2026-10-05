@@ -1,0 +1,11 @@
+oración,propio,NLTK,solo propio,solo NLTK
+"Don't worry, I'm sure they'll arrive at 5 p.m. tomorrow.",do n't worry i 'm sure they 'll arrive at 5 p.m. tomorrow,"do n't worry , i 'm sure they 'll arrive at 5 p.m. tomorrow .",,", ."
+"The U.S. economy grew 3.5% in 2011, according to Dr. Smith.",the u.s. economy grew 3.5 in 2011 according to dr smith,"the u.s. economy grew 3.5 % in 2011 , according to dr. smith .",dr,"% , dr. ."
+She's a well-known co-founder of the start-up.,she 's a well-known co-founder of the start-up,she 's a well-known co-founder of the start-up .,,.
+"We can't and won't accept the $1,000,000 offer.","we ca n't and wo n't accept the 1,000,000 offer","we ca n't and wo n't accept the $ 1,000,000 offer .",,$ .
+Mr. O'Neill bought rock 'n' roll records in the 1990s.,mr o'neill bought rock n roll records in the 1990s,mr. o'neill bought rock 'n ' roll records in the 1990s .,mr n,mr. 'n ' .
+"The students' grades (e.g., A+, B-) were posted online.",the students grades e.g. a b were posted online,"the students ' grades ( e.g. , a+ , b- ) were posted online .",a b,"' ( , a+ , b- ) ."
+I'm gonna visit New York City... maybe.,i 'm gonna visit new york city maybe,i 'm gon na visit new york city ... maybe .,gonna,gon na ... .
+E-mail me at john.doe@example.com before Jan. 5th.,e-mail me at john doe example com before jan 5th,e-mail me at john.doe @ example.com before jan. 5th .,john doe example com jan,john.doe @ example.com jan. .
+The 21st-century state-of-the-art system costs 2.5 million pounds.,the 21st-century state-of-the-art system costs 2.5 million pounds,the 21st-century state-of-the-art system costs 2.5 million pounds .,,.
+"""It's over,"" he said; ""we lost 2-1.""",it 's over he said we lost 2-1,"`` it 's over , '' he said ; `` we lost 2-1 . ''",,"`` , '' ; `` . ''"

@@ -1,0 +1,17 @@
+,SGNS,gensim,GloVe
+tokens del corpus,"50,000,520","50,000,520","6,000,000,000"
+vocabulario,"144,751","144,751","400,000"
+dimensión,100,100,100
+tiempo de entrenamiento,3.8 min (5 epochs),4.8 min (5 epochs),85 min para X + 14 min por iteración (d=300)
+hardware,NVIDIA GeForce RTX 4080 Laptop GPU,"13th Gen Intel(R) Core(TM) i9-13900HX, 12 hilos","2 x Xeon E5-2658 2.1 GHz, 32 núcleos"
+analogías semánticas 3CosAdd (%),51.5,44.9,60.3
+analogías sintácticas 3CosAdd (%),54.2,54.1,67.6
+analogías total 3CosAdd (%),53.4,51.3,65.4
+analogías semánticas 3CosMul (%),48.5,42.6,57.8
+analogías sintácticas 3CosMul (%),51.5,50.9,66.2
+analogías total 3CosMul (%),50.6,48.3,63.6
+Spearman WordSim-353,0.673,0.675,0.533
+Spearman SimLex-999,0.28,0.314,0.298
+coseno medio entre vectores diferencia,0.25,0.253,0.404
+% tokens OOV en AG News,2.87,2.87,1.08
+F1 macro test AG News,0.9141,0.9133,0.9203
